@@ -3,7 +3,7 @@
 A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering (Master's program).
 
 - 📝 I am currently studying 11-751 Speech Recognition and Understanding, 17-214 Principles of Software Construction: Objects, Design, and Concurrency, and 18-749 Building Reliable Distributed Systems.
-- - 🖥️ I am currently working on AI agents, GraphCodeBERT, video understanding, ASR (OWSM V4)language recognition.
+- 🖥️ I am currently working on AI agents, GraphCodeBERT, video understanding, ASR (OWSM V4)language recognition.
 - 📂 Some of my projects can be found on [my GitHub page](https://github.com/kekellllll), but some projects are still unpublished and remain closed-source for now.
 - 📮 Contact me: zifeng888888@gmail.com
 - 🌏 LinkedIn: [Zifeng Wang](https://www.linkedin.com/in/zifeng-wang-6b6016381/)
