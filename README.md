@@ -43,6 +43,7 @@ A diligent student from Carnegie Mellon University, majoring in Engineering, Ele
   <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=kekellllll&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default" alt="kekellllll's GitHub Stats" />
 </div>
 
+<br clear="both">
 ---
 
 <div align="center">
