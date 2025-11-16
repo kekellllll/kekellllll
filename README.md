@@ -3,7 +3,7 @@
   <img src="https://github.com/kekellllll.png" width="120" alt="avatar" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Wang Zifeng.</h1>
+<h1 align="center">Hi 👋, I'm Zifeng Wang.</h1>
 <p align="center">
 A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering (Master's program).
 </p>
