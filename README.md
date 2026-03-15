@@ -16,9 +16,11 @@ A diligent student from Carnegie Mellon University, majoring in Engineering, Ele
 11-751 Speech Recognition and Understanding, <br>
 17-214 Principles of Software Construction: Objects, Design, and Concurrency, <br>
 18-749 Building Reliable Distributed Systems.<br>
+11-868 LLM Systems.<br>
+18-786 Deep learning.<br>
 
 🖥️ <b>Working On:</b> <br>
-AI agents, GraphCodeBERT, Video Understanding, ASR (OWSM V4) Language Recognition.<br>
+LLM Systems, AI agents, GraphCodeBERT, Video Understanding, ASR (OWSM V4) Language Recognition.<br>
 
 📂 <b>Projects:</b> <br>
 Some projects can be found on <a href="https://github.com/kekellllll">my GitHub page</a>.<br>
