@@ -20,7 +20,7 @@ A diligent student from Carnegie Mellon University, majoring in Engineering, Ele
 18-786 Deep learning.<br>
 
 🖥️ <b>Working On:</b> <br>
-LLM Systems, AI agents, GraphCodeBERT, Video Understanding, ASR (OWSM V4) Language Recognition.<br>
+LLM Systems, AI agents, Video Understanding, ASR (OWSM V4) Language Recognition.<br>
 
 📂 <b>Projects:</b> <br>
 Some projects can be found on <a href="https://github.com/kekellllll">my GitHub page</a>.<br>
@@ -28,7 +28,7 @@ Some are closed-source for now.<br>
 
 📮 <b>Contact me:</b> zifeng888888@gmail.com <br>
 🌏 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/zifeng-wang-6b6016381/">Zifeng Wang</a> <br>
-⚡ <b>Interests:</b> Basketball | Badminton | AI | Planning for PhD<br>
+⚡ <b>Interests:</b> Basketball | Badminton | AI <br>
 
 </div>
 
