@@ -5,7 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Zifeng Wang.</h1>
 <p align="center">
-A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering (Master's program).
+A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering.
+  ex-Wharton Research Data Service,Financial Quantitative Assistant agent，Agentic RL（SFT，GRPO）
+  ex-Tencent，Workbuddy/Codebuddy，Agentic RL(MOPD)
 </p>
 
 ---
@@ -18,9 +20,12 @@ A diligent student from Carnegie Mellon University, majoring in Engineering, Ele
 18-749 Building Reliable Distributed Systems.<br>
 11-868 LLM Systems.<br>
 18-786 Deep learning.<br>
+11-777 multimodule ML.<br>
+10-714 Deep learning system.<br>
+18-794 computer vision.<br>
 
 🖥️ <b>Working On:</b> <br>
-LLM Systems, AI agents, Video Understanding, ASR (OWSM V4) Language Recognition.<br>
+LLM Systems, AI agents, Agentic RL, AI infra, Video Understanding, ASR，OCR.<br>
 
 📂 <b>Projects:</b> <br>
 Some projects can be found on <a href="https://github.com/kekellllll">my GitHub page</a>.<br>
