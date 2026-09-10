@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Zifeng Wang.</h1>
 <p align="center">
-A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering.
-  ex-Wharton Research Data Service,Financial Quantitative Assistant agent，Agentic RL（SFT，GRPO）
+A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering.<br>
+  ex-Wharton Research Data Service,Financial Quantitative Assistant agent，Agentic RL（SFT，GRPO）<br>
   ex-Tencent，Workbuddy/Codebuddy，Agentic RL(MOPD)
 </p>
 
