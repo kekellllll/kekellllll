@@ -8,6 +8,7 @@
 A diligent student from Carnegie Mellon University, majoring in Engineering, Electrical and Computer Engineering.<br>
   ex-Wharton Research Data Service,Financial Quantitative Assistant agent，Agentic RL（SFT，GRPO）<br>
   ex-Tencent，Workbuddy/Codebuddy，Agentic RL(MOPD)
+  verl contributor<br>
 </p>
 
 ---
